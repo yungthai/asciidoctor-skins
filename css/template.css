@@ -63,10 +63,12 @@ p {
 
 /* blockquote text */
 .quoteblock {
-  font-style: italic;
+  font-style: bold;
+  font-size: 2em !important;
 }
 blockquote {
   font-style: italic;
+  background-color: pink;
 }
 
 /* the quotation mark itself (before the block) */
